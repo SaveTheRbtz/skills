@@ -1,0 +1,4 @@
+interface:
+  display_name: "Readable Lean Proofs"
+  short_description: "Write and simplify clear, concise Lean proofs"
+  default_prompt: "Use $lean-readable-proofs to write or simplify this Lean proof while preserving its statement and checking it with the project toolchain."
